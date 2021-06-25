@@ -1,0 +1,2 @@
+D:\Programming\Game\Game_staj\Game_staj\obj\Debug\Game_staj.csprojAssemblyReference.cache
+D:\Programming\Game\Game_staj\Game_staj\obj\Debug\Game_staj.csproj.CoreCompileInputs.cache
